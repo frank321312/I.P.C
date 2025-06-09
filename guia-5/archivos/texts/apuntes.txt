@@ -1,0 +1,25 @@
+# Matemáticas
+- Definición de función: Una función es una relación entre un conjunto dado de elementos, donde a cada elemento le corresponde un único valor.
+- Propiedades de la suma y multiplicación.
+- Derivadas básicas: regla de la cadena, producto y cociente.
+
+# Historia
+- Revolución Francesa: 1789-1799, marcó el fin de la monarquía absoluta en Francia.
+- Primera Guerra Mundial: 1914-1918, causas incluyen nacionalismo, alianzas y asesinato del archiduque Francisco Fernando.
+- Independencia de América Latina: proceso gradual influido por la Ilustración y las guerras napoleónicas.
+
+# Biología
+- Célula: unidad estructural y funcional de los seres vivos.
+- ADN: ácido desoxirribonucleico, contiene la información genética.
+- Fotosíntesis: proceso por el cual las plantas convierten la luz solar en energía química.
+
+# Lengua
+- Sustantivos: palabras que nombran personas, lugares, cosas o ideas.
+- Verbos: expresan acciones, estados o procesos.
+- Figuras literarias: metáfora, hipérbole, anáfora, etc.
+
+# Programación
+- Algoritmos: conjunto de pasos ordenados para resolver un problema.
+- Estructuras de control: if, for, while.
+- Tipos de datos: int, float, string, boolean.
+- Python es un lenguaje de tipado dinámico, muy usado en ciencia de datos e inteligencia artificial.

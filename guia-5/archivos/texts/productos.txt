@@ -1,0 +1,7 @@
+producto;precio;cantidad;fecha
+arroz;50;100;2021-01-01
+fideos;40;200;2021-01-01
+arroz;50;100;2021-01-02
+fideos;40;200;2021-01-02
+arroz;50;100;2021-01-03
+fideos;40;200;2021-01-03

@@ -1,0 +1,6 @@
+resultado
+Error en la fila 2: No se puede dividir por cero.
+215.54755784061697
+112.33333333333333
+Error en la fila 5: No se puede dividir por cero.
+Error en la fila 6: Debe ingresar un numero.

@@ -1,0 +1,3 @@
+archivo;palabras;apariciones
+archivo1.txt;162;2
+archivo2.txt;72;0

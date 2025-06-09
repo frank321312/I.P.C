@@ -3,12 +3,15 @@
 
 from ejercicio_1 import directorio
 
-def imprimir(ignorar_vacias = False):
-    archivo = open(directorio + "/texts/e_1.txt")
+def imprimir(nombre_archivo, tipo, ignorar_vacias=False):
+    archivo = open(directorio + f"/texts/{nombre_archivo}.{tipo}")
     lineas = archivo.readlines()
     archivo.close()
-
     for i in lineas:
-        print(i, end="") if ignorar_vacias else print(i) 
-        
-# imprimir()
+        if ignorar_vacias:
+            if i.strip():
+                print(i, end="")
+        else:
+            print(i, end="")
+
+# imprimir("e_1", "txt")

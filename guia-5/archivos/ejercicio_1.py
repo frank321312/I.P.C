@@ -6,11 +6,11 @@ ruta_completa = os.path.abspath(__file__)
 
 directorio = os.path.dirname(ruta_completa)
 
-def contar_lineas():
-    archivo = open(directorio + "/texts/e_1.txt")
+def contar_lineas(nombre_archivo, tipo):
+    archivo = open(directorio + f"/texts/{nombre_archivo}.{tipo}")
     lineas = archivo.readlines()
     archivo.close()
     
     return len(lineas)
 
-# print(contar_lineas())
+# print(contar_lineas("e_1", "txt"))

@@ -1,0 +1,40 @@
+local;visita;goles_local;goles_visita;gano;penales
+real madrid;boca juniors;1;2;visita;N
+A.C. Milan;boca juniors;1;1;visita;S
+barcelona;river plate;2;0;local;N
+manchester united;chelsea;3;2;local;S
+bayern munich;borussia dortmund;2;2;visita;S
+psg;marseille;1;0;local;N
+juventus;inter;0;1;visita;N
+arsenal;tottenham;2;1;local;N
+ajax;psv;1;3;visita;S
+benfica;porto;0;2;visita;N
+sevilla;valencia;2;2;local;S
+roma;lazio;1;1;local;N
+napoli;atalanta;3;2;local;N
+lyon;monaco;0;1;visita;N
+celtic;rangers;2;2;visita;S
+anderlecht;brugge;1;0;local;N
+sparta praga;slavia praga;2;1;local;N
+olympiacos;panathinaikos;1;2;visita;S
+fenerbahce;galatasaray;0;0;local;N
+zenit;spartak moscú;2;1;local;N
+shakhtar;dinamo kiev;1;3;visita;N
+america;chivas;2;2;local;S
+cruz azul;pumas;1;0;local;N
+santos;monterrey;0;1;visita;N
+boca juniors;independiente;2;1;local;N
+river plate;san lorenzo;1;2;visita;S
+colón;union;0;0;local;N
+newell's;rosario central;1;1;local;N
+lanus;banfield;2;2;visita;S
+estudiantes;gimnasia;1;0;local;N
+quilmes;arsenal;0;1;visita;N
+huracan;velez;2;1;local;N
+alaves;osasuna;1;2;visita;S
+betis;espanyol;0;0;local;N
+getafe;levante;2;2;local;S
+mallorca;granada;1;1;local;N
+celta;cadiz;2;0;local;N
+valladolid;eibar;0;1;visita;N
+rayo vallecano;elche;1;2;visita;S

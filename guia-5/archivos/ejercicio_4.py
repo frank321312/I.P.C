@@ -2,11 +2,11 @@
 
 from ejercicio_1 import directorio
 
-def ver_encabezado(n: int):
-    archivo = open(directorio + "/texts/e_1.txt")
+def ver_final(n: int, nombre_archivo, tipo):
+    archivo = open(directorio + f"/texts/{nombre_archivo}.{tipo}")
     lineas = archivo.readlines()
     archivo.close()
 
     return lineas[-n:]
 
-print(ver_encabezado(2))
+print(ver_final(2, "e_1", "txt"))
